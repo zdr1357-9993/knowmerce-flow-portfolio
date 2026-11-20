@@ -1,0 +1,11 @@
+node_modules
+dist
+.next
+.vinext
+.wrangler
+.sites-runtime
+vendor
+outputs
+work
+pnpm-lock.yaml
+components/ui
